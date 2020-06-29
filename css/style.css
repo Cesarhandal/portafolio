@@ -1,0 +1,170 @@
+
+header{
+background-color: #000000;
+text-align: center;
+color: #00CC00;
+position: absolute;
+width: 100%;
+top: 0;
+z-index: 9999;
+font-size: 20px;
+}
+
+body{
+font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+#hero{
+background-image: url(../img/maxresdefault.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+padding-top: 150px;
+padding-bottom: 70px;
+color: #000000;
+}
+
+#servicios {
+font-family: 'Montserrat', sans-serif;
+background-image: url(../img/Space1.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;  
+}
+
+#servicios .sec-espacio{
+	padding: 80px 30px;
+}
+
+#servicios h3{
+	font-family: 'Montserrat Subrayada', sans-serif;
+	font-size: 20px;
+	color: #00CC00;
+	text-transform: uppercase;
+	font-weight: 400;
+}
+
+#servicios p{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	color: #000000;
+}
+
+#servicios .row{
+	padding-top: 10px;
+}
+
+.titulo{
+font-family: 'Montserrat Subrayada', sans-serif;
+font-size: 50px;
+text-transform: uppercase;
+color: #00CC00;
+padding-top: 20px;
+margin-bottom: 20px;
+}
+
+.subtitulo{
+font-family: 'Montserrat Subrayada', sans-serif;
+font-size: 35px;
+color: #DCDCDC;
+padding-bottom:40px;
+}
+
+#trabajos {
+color: #FFFFFF;
+padding-bottom: 50px;
+}
+
+#trabajos h2 {
+color: #FFFFFF;
+padding-top: 70px;
+}
+
+#trabajos h3 {
+padding-top: 20px;
+}
+
+#trabajos .row {
+padding-bottom: 30px;
+}
+
+#trabajos {
+background-image: url(../img/azul.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;  
+}
+
+#sobre {
+background-image: url(../img/Space2.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+padding-left: 100px;
+padding-top: 100px;
+padding-bottom: 100px;
+}
+
+#sobre h1 {
+color: #8E0707;
+padding-top: 70px;
+}
+
+#sobre h4 {
+color: #403736;
+padding-bottom: 70px;
+font-family: 'Montserrat', sans-serif;
+}
+
+#contacto{
+	background-image: url(../img/maxresdefault.jpg);
+	background-position: center;
+	background-size: cover;
+	padding: 50px 0;
+	color: #fff;
+	position: relative; 
+}
+
+#contacto p{
+	font-family: 'Montserrat', sans-serif;
+}
+
+#contacto .bg-overlay{
+	opacity: 1;
+}
+
+#contacto .titulo{
+	color: #fff;
+	font-size: 26px;
+	margin-bottom: 10px;
+}
+#contacto .btn{
+	background-color: transparent;
+	color: #fff;
+	border-radius: 30px;
+	text-transform: uppercase;
+}
+
+#footer-menu{
+	background-color: #000000;
+	color: #7C7C7C;
+	padding-top: 50px;
+}
+
+#footer-menu h3 {
+	color: #FFFFFF;
+}
+
+#footer-menu li{
+font-size: 15px;
+font-family: 'Montserrat', sans-serif;
+}
+
+#footer-menu p{
+font-size: 12px;
+font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
